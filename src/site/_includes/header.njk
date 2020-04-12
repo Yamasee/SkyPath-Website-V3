@@ -16,19 +16,19 @@
           </span>
         </span>
       </button>
-
+      
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav m-auto menu">
-          <li class="nav-item active">
+          <li class="nav-item {% if page.url == '/' %} active {% endif %} ">
             <a class="nav-link" href="/">
-              Home
+              Home 
             </a>
           </li>
           <!-- <li class="nav-item"> <a title="Pages" class="nav-link" href="/company">Company</a> </li> <li class="nav-item"> <a title="Pages" class="nav-link" href="#">Physics of turbulence</a> </li> <li class="nav-item"> <a title="Pages" class="nav-link" href="#">Technology</a> </li> <li class="nav-item"> <a title="Pages" class="nav-link" href="#">News</a> </li> <li class="nav-item"> <a title="Pages" class="nav-link" href="#">Users Area</a> </li> -->
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/about/' %} active {% endif %}">
             <a title="About Us" class="nav-link" href="/about/">About Us</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/contact/' %} active {% endif %}">
             <a title="Pages" class="nav-link" href="/contact/">Request Demo</a>
           </li>
 
