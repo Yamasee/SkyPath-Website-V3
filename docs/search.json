@@ -1,0 +1,26 @@
+[
+  {
+    "url": "/posts/a-post/",
+    "title": "A post page",
+    "index": "There&#39;s much here sample post page Better get work common frontmatter data files posts section are abstracted into postsjson file that don&#39;t need repeat every file Handy looks like this:{ &quot;layout&quot; : &quot;layouts/postmd&quot; &quot;tags&quot; &quot;post&quot; &quot;templateEngineOverride&quot;: &quot;njkmd&quot;}"
+  },
+  {
+    "url": "/posts/another-post/",
+    "title": "Another post page",
+    "index": "Another simple pageSince post pages are tagged they form collection can easily inspected iterated over See that home page"
+  },
+  {
+    "url": "/",
+    "title": "",
+    "index": " Real time real turbulence data! Improve your safety  operational efficiency with realtime data Request Demo ( credit card required)   Tens thousands  airborne sensors provide accurate Detect Every pilot&#39;s ipad sensor Collect Using Aircraft WiFi data sent cloud Analyze Data meshed algorithm allocates severity Broadcast Updated info every minute Reduced severe inspections With objective reports Maintenance can substantiate exact &quot;G&quot; tolerance magnitudes determine precise maintenance required thus eliminating unnecessary inspections Learn more&gt; Reduced board injuries Crew passenger injuries create tangible costs issues concern &quot;Crowd Sourcing&quot; wisdom increase pilot dispatch awareness enabling efficient navigation enroute fuel consumption preflight reserve fueling Better information leads better decisions critical areas where safety balanced with efficiency Skypath allows pilots safely navigate rapidly emerging situations Significant may avoided routing loading contingency reduced inflight altitude adjustments Improved planning guidance feedback loop instantaneous Mappable smoothair flyable airspace enables flight planning  Made by pilots! Founded professional airline seeking fulfill need Senior Apple Executive Tchao revealed that one his favorite iPad aviation apps SkyPath “ many years dream connected been literally that dream thanks mobile devices like iPad iPhone Watch becoming reality” Michael Tchao VP product provides amazingly situational awareness safer significantly enhanced comfort 787 Captain ELAL Airlines Start your today! Download app &#39;ll set minutes experience passengers fewer headaches team Get Started"
+  },
+  {
+    "url": "/about/",
+    "title": "",
+    "index": " About us Yamasee established 2015 by pilots who have set their vision solving turbulence problem aviation community been trying come grips with CAT (Clear Air Turbulence) over 30 years available data cumbersome elusive unreliable guiding midair raising major questions commercial field  Team Zivi Nedivi President &amp; CEO Previously he served president CEO Cyalume Technologies leading designer manufacturer proprietary chemical illumination products safety security medical markets Prior Mr Nedivi then special advisor Axiom Investment Advisors $16 billion hedge fund specializing currencies before that Chief Operating Officer Lumenis Ltd world&#39;s laser company From 1990 2005 Kellstrom Aerospace Industries his business career F15 fighter pilot Israeli Force Relik Shafir Chairman Shafir Chairman actively involved organizational planning strategic direction Before years IAF F4 F15 F16 pilot His command posts included F4 squadron Flight Academy wing base largest IAF TelNof Since retirement from held managerial positions software energy industries current position IEI scientific oil shale exploratory Mathematics Philosophy major graduate Naval Post Graduate School Monterey California reserve officer serves spokesperson emrgencies safety officer missile testing unit Oran Hampel innovation officer Capt Hampel inventor SkyPath Yamasee&#39;s Innovation He&#39;s also ELAL senior 787/777 Captain check pilot 15000 flight hours He licensed B737NG B757 B767 advancing wide body fleet chief fleet manager B737s well instructor airmen 100 reporting him ELAL consultant Israel Aircraft Industries LAVI development program During service expert safety  Maya Shpak Operation Officer Oron Adam CTO providers management oversight everything which technology related Making sure our uses latest greatest technologies while still being reliable highly available 20 industry experience Software Architect CTO various companies holds B computer science"
+  },
+  {
+    "url": "/contact/",
+    "title": "",
+    "index": " Request Demo Send Message Your message succesfully sent! Opps! There something wrong Please try again"
+  }]
