@@ -7,12 +7,12 @@
     <loc>https://site-root-url.com/posts/another-post/</loc>
   </url>
   <url>
-    <loc>https://site-root-url.com/</loc>
-  </url>
-  <url>
     <loc>https://site-root-url.com/about/</loc>
   </url>
   <url>
     <loc>https://site-root-url.com/contact/</loc>
+  </url>
+  <url>
+    <loc>https://site-root-url.com/</loc>
   </url>
 </urlset>
