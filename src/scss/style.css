@@ -21679,7 +21679,7 @@ a .h_head:hover {
 
 /*============= chat_banner_area css ============*/
 .chat_banner_area {
-  height: 100vh;
+  height: 70vh;
   min-height: 700px;
   background: #fafafe;
   position: relative;
